@@ -20,7 +20,8 @@
     "Kenneth",
     "Sean!!!",
     "Jeffrey Chan",
-    "Kris Hsu"
+    "Kris Hsu",
+    "Bharath Sampath"
     // Add your name above this line! (Do not delete this)
 ];
 
